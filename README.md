@@ -1,2 +1,2 @@
 # Study-of-CS-in-U-of-M
-Some studying staff about Computer Science
+Some studying stuff about Computer Science
